@@ -21,3 +21,5 @@ I'm Luiz Eduardo de Lima, an economist graduated from Western Paraná State Univ
     Financial variables: interest rates and the US Dollar Index (DXY)
 
 📊 Beyond my professional work, I'm also an active market speculator. My trading strategy combines Wyckoff theory, Price Action, and Fibonacci tools, with a strong focus on volume and structural analysis.
+
+[![My Skills](https://skillicons.dev/icons?i=sqlite,py,sklearn)](https://skillicons.dev)
